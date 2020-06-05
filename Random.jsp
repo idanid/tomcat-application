@@ -1,5 +1,5 @@
 <html>
-<head><title>MObile</title></head>
+<head><title>App</title></head>
 <body>
   <%
     double num = Math.random();
